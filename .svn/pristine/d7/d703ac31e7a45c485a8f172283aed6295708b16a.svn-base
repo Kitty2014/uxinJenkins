@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="422730" started-at="2015-11-20T02:36:21Z" finished-at="2015-11-20T02:43:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="422730" started-at="2015-11-20T02:36:21Z" finished-at="2015-11-20T02:43:24Z">
+      <class name="com.checkAuto.appium.testcases.makemytrip.runOrders">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.checkAuto.appium.testcases.makemytrip.runOrders@bcec361]" name="setUp" is-config="true" duration-ms="16983" started-at="2015-11-20T10:36:04Z" finished-at="2015-11-20T10:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.checkAuto.appium.testcases.makemytrip.runOrders@bcec361]" name="init" is-config="true" duration-ms="125" started-at="2015-11-20T10:36:21Z" finished-at="2015-11-20T10:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="getCarShoot()[pri:0, instance:com.checkAuto.appium.testcases.makemytrip.runOrders@bcec361]" name="getCarShoot" duration-ms="422598" started-at="2015-11-20T10:36:21Z" finished-at="2015-11-20T10:43:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCarShoot -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.checkAuto.appium.testcases.makemytrip.runOrders@bcec361]" name="tearDown" is-config="true" duration-ms="1311" started-at="2015-11-20T10:43:24Z" finished-at="2015-11-20T10:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.checkAuto.appium.testcases.makemytrip.runOrders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

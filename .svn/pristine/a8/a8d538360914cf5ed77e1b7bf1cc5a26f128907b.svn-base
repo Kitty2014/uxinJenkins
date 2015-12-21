@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/lyw/Desktop/000_9_28_jar/java-client-2.1.0.jar" sourcepath="/Users/lyw/Downloads/3.0/java-client-3.0.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/lyw/Downloads/3.0/java-client-3.0.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/lyw/Desktop/eclipse/android-support-4.0/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="/Users/lyw/Desktop/eclipse/android-support-4.0/TestNG jar/testng-6.8.21.jar" sourcepath="/Users/lyw/Desktop/eclipse/android-support-4.0/TestNG jar/testng-6.8.21-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/lyw/Desktop/eclipse/android-support-4.0/TestNG%20jar/testng-6.8.21-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/lyw/Desktop/eclipse/android-support-4.0/POI3.12/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="/Users/lyw/Desktop/eclipse/android-support-4.0/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/lyw/Desktop/eclipse/android-support-4.0/POI3.12/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="/Users/lyw/Desktop/eclipse/android-support-4.0/POI3.12/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="/Users/lyw/Downloads/sqljdbc_3.0/chs/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

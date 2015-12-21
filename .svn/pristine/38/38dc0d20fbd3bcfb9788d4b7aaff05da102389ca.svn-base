@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java=iso-8859-1
+encoding//src/test/java=iso-8859-1
+encoding//src/test/java/com/checkAuto/appium/base/Constants.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/base/ScreenBase.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/rough/MakeMyTrip.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/rough/app3_8_24_UiSelector.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/rough/app3_8_24_UiSelector_1.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/rough/app3_9_1_huini_UiSelector.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/screens/nativeapp/makemytrip/BookingFlights.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/screens/nativeapp/makemytrip/Generate_orders.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/screens/nativeapp/makemytrip/checkAuto_9_9_UiSelector.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/screens/nativeapp/makemytrip/checkAuto_9_9_UiSelector\u7AFA.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/testcases/makemytrip/BookingTickets.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/testcases/makemytrip/CopyOfBookingTickets.java=UTF-8
+encoding//src/test/java/com/checkAuto/appium/testcases/makemytrip/runOrders.java=UTF-8

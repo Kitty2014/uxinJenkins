@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNG Learning]">
+  <test name="SelendroidHomeScreen test(failed)">
+    <classes>
+      <class name="com.checkAuto.appium.testcases.SelendroidHomeScreenValidationTest">
+        <methods>
+          <include name="validateHomeScreenTest"/>
+        </methods>
+      </class> <!-- com.checkAuto.appium.testcases.SelendroidHomeScreenValidationTest -->
+      <class name="com.checkAuto.appium.testcases.WebViewScreenValidationTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.checkAuto.appium.testcases.WebViewScreenValidationTest -->
+    </classes>
+  </test> <!-- SelendroidHomeScreen test(failed) -->
+  <test name="WebViewScreen test(failed)">
+    <classes>
+      <class name="com.checkAuto.appium.testcases.WebViewScreenValidationTest">
+        <methods>
+          <include name="validateWebViewScreen"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.checkAuto.appium.testcases.WebViewScreenValidationTest -->
+    </classes>
+  </test> <!-- WebViewScreen test(failed) -->
+</suite> <!-- Failed suite [TestNG Learning] -->
